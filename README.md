@@ -1,5 +1,5 @@
-<h1 align="center">hi 👋, i'm Travis</h1>
-<h3 align="center">a passionate developer from Texas</h3>
+<h1 align="center">hi 🌠, i'm Travis</h1>
+<h3 align="center">a student and passionate developer from Texas</h3>
 
 - 🔭 i’m currently working on **origami assisting technologies.**
 
