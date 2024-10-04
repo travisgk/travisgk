@@ -1,7 +1,7 @@
 <h1 align="center">hi 🌠, i'm Travis</h1>
 <h3 align="center">a hobbyist and student from Texas</h3>
 
-- 🔭 I’m currently working on [linguistics](https://github.com/travisgk/js-long-s).
+- 🔭 I’m currently working on [linguistics](https://github.com/travisgk/long-s).
 
 - 🌱 I’m currently learning **javascript**.
 
