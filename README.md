@@ -1,7 +1,7 @@
 <h1 align="center">🌱 Welcome 🌱</h1>
 <h3 align="center">My name is Travis, I'm a student and programmer from Texas</h3>
 <ul>
-  <li><em>I am working on:</em> rewriting source code.</li>
+  <li><em>I am working on:</em> learning tools for German</li>
 </ul>
 
 <h3 align="left">Interests</h3>
