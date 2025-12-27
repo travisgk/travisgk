@@ -1,17 +1,5 @@
-<h1 align="center">🌱 Welcome 🌱</h1>
-<h3 align="center">My name is Travis, I'm a student and programmer from Texas</h3>
-<ul>
-  <li><em>I am working on:</em> learning tools for German</li>
-</ul>
+<h1 align="center">🌱 Welcome to my GitHub 🌱</h1>
 
-<h3 align="left">Interests</h3>
-<ul>
-  <li>Linguistics</li>
-  <li>Origami</li>
-  <li>Game Theory</li>
-  <li>Outdoors</li>
-  <li>Graphical and UI Design</li>
-</ul>
 
 <br>
 
